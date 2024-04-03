@@ -1,5 +1,5 @@
-Implementation of a very basic compiler from a screencast.
+Implementation of a very basic compiler.
 
-To execute the generated test case run:
+Please see here for more details:
 
-<code>ruby ./compiler.rb | node</code>
+https://www.beyondvelocity.com/post/58
